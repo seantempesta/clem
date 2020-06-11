@@ -1,7 +1,7 @@
 {
     "train_config": {
         "fp16_run": true,
-        "output_directory": "../clem/Clem-1.1/waveglow/checkpoints",
+        "output_directory": "/contents/drive/My Drive/ml/clem/Clem-1.1/waveglow/checkpoints",
         "epochs": 100000,
         "learning_rate": 1e-5,
         "sigma": 1.0,
